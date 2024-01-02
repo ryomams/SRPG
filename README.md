@@ -1,5 +1,10 @@
 # SRPG
-SEXY RPG FOR THE SEXIES ONLY
+## SUPER SEXY RPG
 
+FOR THE SEXIES ONLY
 
-if u arent a sexie then u cant actually look at this yes mhm
+TO ALL SEXIES:
+to clone this repository, use git bash to `git clone https://github.com/ryomams/SRPG.git` in git bash or your favorite terminal.
+
+IF YOU ARE NOT A SEXY:
+LEAVE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
